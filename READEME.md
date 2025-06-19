@@ -12,7 +12,6 @@
 - 依赖库：`ping3`，`smtplib`（内置库）
 
 ## 安装依赖
-```bash
 pip install ping3
 使用方法
 克隆或下载本项目
@@ -22,10 +21,6 @@ pip install ping3
 配置邮件发送相关参数（SMTP服务器、账号密码、接收邮箱）
 
 运行脚本：
-
-bash
-Copy
-Edit
 python monitor.py
 配置说明
 PING_COUNT：每次检测的ping次数
